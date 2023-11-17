@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSA.FrontEnd.Api", "OSA.FrontEnd.Api\OSA.FrontEnd.Api.csproj", "{8F452462-E64B-4C9C-8242-4E9675645CBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSA.Backend.CharacterApi.Client", "OSA.Backend.CharacterApi.Client\OSA.Backend.CharacterApi.Client.csproj", "{518EC476-B292-4E55-8FDB-EB13C6E2E555}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSA.Backend.StarshipApi.Client", "OSA.Backend.StarshipApi.Client\OSA.Backend.StarshipApi.Client.csproj", "{D293C2B1-6255-4023-9F78-98B1E6B62D74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSA.Backend.CharacterApi", "OSA.Backend.CharacterApi\OSA.Backend.CharacterApi.csproj", "{B345CA18-E477-4D74-9D40-CF44C878822F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSA.Backend.StarshipApi", "OSA.Backend.StarshipApi\OSA.Backend.StarshipApi.csproj", "{C7602745-F394-4E0E-9830-7C1A1F12E21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F452462-E64B-4C9C-8242-4E9675645CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F452462-E64B-4C9C-8242-4E9675645CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F452462-E64B-4C9C-8242-4E9675645CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F452462-E64B-4C9C-8242-4E9675645CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518EC476-B292-4E55-8FDB-EB13C6E2E555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518EC476-B292-4E55-8FDB-EB13C6E2E555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518EC476-B292-4E55-8FDB-EB13C6E2E555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518EC476-B292-4E55-8FDB-EB13C6E2E555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D293C2B1-6255-4023-9F78-98B1E6B62D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D293C2B1-6255-4023-9F78-98B1E6B62D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D293C2B1-6255-4023-9F78-98B1E6B62D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D293C2B1-6255-4023-9F78-98B1E6B62D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B345CA18-E477-4D74-9D40-CF44C878822F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B345CA18-E477-4D74-9D40-CF44C878822F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B345CA18-E477-4D74-9D40-CF44C878822F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B345CA18-E477-4D74-9D40-CF44C878822F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7602745-F394-4E0E-9830-7C1A1F12E21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7602745-F394-4E0E-9830-7C1A1F12E21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7602745-F394-4E0E-9830-7C1A1F12E21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7602745-F394-4E0E-9830-7C1A1F12E21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA424A0-E649-42C0-922F-97FB82E7B090}
+	EndGlobalSection
+EndGlobal
